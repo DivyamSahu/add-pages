@@ -124,7 +124,20 @@ function Shooting() {
       >
         <div className="col-sm-12 col-md-12 alert alert-warning p-3 m-0 bg-dark">
           <h4>Safety Measures</h4>
-          <h5 style={{ color: "white" }}>NA</h5>
+          <ol style={{ color: "white" }}>
+            <li>
+            Gloves, visors and a stand for resting the rifle are provided.
+            </li>
+            <li>
+              If you are pregnant, have a heart condition, neck or back
+              problems, epilepsy, a neurological disorder you should not
+              participate in the above activity.
+            </li>
+            <li>
+              You must not be under the influence of Alcohol, Drugs or any other
+              substance that may affect your senses.
+            </li>
+          </ol>
         </div>
       </div>
     </>
